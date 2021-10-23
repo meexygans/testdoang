@@ -1,0 +1,7 @@
+{
+  "name": "M E E X Y",
+  "description": "whatsapp bot build with nodejs",
+  "repository": "https://github.com/justpiple/whatsapp-bot",
+  "logo": "https://telegra.ph/file/68f78ccd87df18396f7f6.jpg",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation"]
+}
